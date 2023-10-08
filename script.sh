@@ -18,4 +18,4 @@
  %altschool ALL=(ALL:ALL) NOPASSWD: /bin/cat/etc/*
 
 # Create another user without a home directory:
- sudo useradd -m JIGGYUSER
+ sudo useradd -M JIGGYUSER
